@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Blue Ribbon Federal Grill",
+      "category": "Eating and Drinking Places",
+      "numCampaigns": 9,
+      "location": { "lat": 40.7079853, "lng": -74.0077109 }
+    },
+    {
+      "name": "Gourmet Garage",
+      "category": "Food Stores-Retail",
+      "numCampaigns": 1,
+      "location": { "lat": 40.7229593, "lng": -74.0027179 }
+    },
+    {
+      "name": "Hank's Juicy Beef",
+      "category": "Eating and Drinking Places",
+      "numCampaigns": 2,
+      "location": { "lat": 40.7143487, "lng": -74.00721469999996 }
+    },
+    {
+      "name": "Keste Wall Street",
+      "category": "Eating and Drinking Places",
+      "numCampaigns": 1,
+      "location": { "lat": 40.7092842, "lng": -74.00492600000001 }
+    },
+    {
+      "name": "Unity Acupuncture",
+      "category": "Other Medical Facilities",
+      "numCampaigns": 5,
+      "location": { "lat": 40.71438860000001, "lng": -74.00791979999997 }
+    }
+  ]
