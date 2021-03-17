@@ -16,4 +16,4 @@
 ## Running the project 
 ```
 Navigate to http://localhost:8080 
-```s
+```
